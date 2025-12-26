@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PassValuesBetweenForms/PassValuesBetweenForms.csproj" />
+  <Project Path="PassValuesBetweenFormsEventHandler/PassValuesBetweenFormsEventHandler.csproj" />
+</Solution>
